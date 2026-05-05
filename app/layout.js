@@ -1,7 +1,7 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'معرض أعمالي - إسراء نبوي',
+  title: 'معرض أعمالي - فاطمة خالد ',
   description: 'بورتفوليو خاص بأعمال الجرافيك والتصميم',
 }
 
